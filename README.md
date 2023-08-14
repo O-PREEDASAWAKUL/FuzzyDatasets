@@ -1,3 +1,10 @@
-# FuzzyDatasets
+# Benchmarks datasets for clustering
 
-![R1_data](https://github.com/O-PREEDASAWAKUL/FuzzyDatasets/assets/140947798/d0974dee-41c2-4586-9876-331d7f7e03b6)
+## FuzzyDatasets
+  FuzzyDatasets contain collection of labeled data. Most of the datasets were generated from Gaussian and Uniform distributions
+
+  FuzzyDatasets include: \
+  Artificial datasets \
+  Simulated datasets with ranks
+  
+
