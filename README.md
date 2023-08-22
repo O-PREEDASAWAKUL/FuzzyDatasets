@@ -4,8 +4,7 @@
   FuzzyDatasets contain collection of labeled data. Most of the datasets were generated from Gaussian and Uniform distributions
 
   FuzzyDatasets include: \
-  10 Artificial datasets \
-  7 Simulated datasets with ranks
+  25 Artificial datasets 
 
 ### Artificial datasets
  <img src="https://github.com/O-PREEDASAWAKUL/FuzzyDatasets/blob/main/IMG/D2_data.jpg"
