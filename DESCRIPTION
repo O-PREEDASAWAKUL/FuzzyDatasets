@@ -1,0 +1,13 @@
+Package: FuzzyDatasets
+Type: Package
+Title: Benchmark Datasets for clustering.
+Version: 0.1.0
+Author: Nathakhun Wiroonsri and Onthada Preedasawakul
+Maintainer: Nathakhun Wiroonsri <nathakhun.wir@kmutt.ac.th> and Onthada Preedasawakul <rrrealrs@gmail.com>
+Description: Benchmark Datasets for clustering including 10 Artificial dataset and 7 Simulated datasets with ranks.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.2.3

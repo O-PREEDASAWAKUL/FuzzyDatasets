@@ -1,0 +1,12 @@
+#' @title R2 Artificial Dataset
+#' @description A \code{2}-dimensional dataset generated from \code{7} different Gaussian distributions labeled as \code{1-7}.
+#' @format A data frame with 1750 data points and 3 variables
+#' \describe{
+#'   \item{\code{x}}{Numeric values generated from Gaussian distributions}
+#'   \item{\code{y}}{Numeric values generated from Gaussian distributions}
+#'   \item{\code{label}}{Categorical labels {1,2,3,4,5,6,7}}
+#'}
+#' @references  {xxx}
+#' @author {Nathakhun Wiroonsri and Onthada Preedasawakul}
+#' @seealso {\link{FzzyCVIs},  \link{WP.IDX},  \link{D1_data}}
+"R2_data"
