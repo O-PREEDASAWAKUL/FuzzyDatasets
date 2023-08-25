@@ -7,7 +7,7 @@
   25 Artificial datasets 
 
 ### Artificial datasets
- <img src="https://github.com/O-PREEDASAWAKUL/FuzzyDatasets/blob/main/IMG/D2_data.jpg"
+ <a href="https://github.com/O-PREEDASAWAKUL/FuzzyDatasets/blob/main/data.csv/D1_data.csv"><img src="https://github.com/O-PREEDASAWAKUL/FuzzyDatasets/blob/main/IMG/D2_data.jpg"
  alt="Art2-2D-6C" title="Art2-2D-6C" width="300px" style="max-width: 100%;float:left;"/></a>
  <img src="https://github.com/O-PREEDASAWAKUL/FuzzyDatasets/blob/main/IMG/D3_data.jpg"
  alt="Art3-2D-6C" title="Art3-2D-4C" width="300px" style="max-width: 100%;float:left;"/></a>
@@ -18,7 +18,7 @@
  <img src="https://github.com/O-PREEDASAWAKUL/FuzzyDatasets/blob/main/IMG/D6_data.jpg"
  alt="Art6-2D-6C" title="Art6-2D-5C" width="300px" style="max-width: 100%;float:left;"/></a>
  <img src="https://github.com/O-PREEDASAWAKUL/FuzzyDatasets/blob/main/IMG/D7_data.jpg"
- alt="Art4-2D-6C" title="Art4-2D-6C" width="300px" style="max-width: 100%;float:left;"/></a>
+ alt="Art7-2D-6C" title="Art7-2D-6C" width="300px" style="max-width: 100%;float:left;"/></a>
  <img src="https://github.com/O-PREEDASAWAKUL/FuzzyDatasets/blob/main/IMG/D8_data.jpg"
  alt="Art8-2D-6C" title="Art8-2D-6C" width="300px" style="max-width: 100%;float:left;"/></a>
  <img src="https://github.com/O-PREEDASAWAKUL/FuzzyDatasets/blob/main/IMG/D9_data.jpg"
