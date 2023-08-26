@@ -59,4 +59,9 @@
  alt="Rank5-2D-6C1-C2" title="Rank5-2D-6C1-C2" width="300px" style="max-width: 100%;float:left;"/></a>
  <a href="https://github.com/O-PREEDASAWAKUL/FuzzyDatasets/blob/main/data.csv/R7_data.csv"><img src="https://github.com/O-PREEDASAWAKUL/FuzzyDatasets/blob/main/IMG/R7_data.jpg"
  alt="Rank6-2D-3C1-9C2" title="Rank6-2D-3C1-9C2" width="300px" style="max-width: 100%;float:left;"/></a>
+
+
  
+## License
+
+The FuzzyDatasets package as a whole is distributed under [GPL(>=3)](https://www.gnu.org/licenses/gpl-3.0.en.html).
