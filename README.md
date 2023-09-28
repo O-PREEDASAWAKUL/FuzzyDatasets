@@ -58,7 +58,7 @@
  <a href="https://github.com/O-PREEDASAWAKUL/FuzzyDatasets/blob/main/data.csv/R5_data.csv"><img src="https://github.com/O-PREEDASAWAKUL/FuzzyDatasets/blob/main/IMG/R5_data.jpg"
  alt="Rank5-2D-6C1-C2" title="Rank5-2D-6C1-C2" width="300px" style="max-width: 100%;float:left;"/></a>
  <a href="https://github.com/O-PREEDASAWAKUL/FuzzyDatasets/blob/main/data.csv/R7_data.csv"><img src="https://github.com/O-PREEDASAWAKUL/FuzzyDatasets/blob/main/IMG/R7_data.jpg"
- alt="Rank7-2D-3C1-9C2" title="Rank6-2D-3C1-9C2" width="300px" style="max-width: 100%;float:left;"/></a>
+ alt="Rank7-2D-3C1-9C2" title="Rank7-2D-3C1-9C2" width="300px" style="max-width: 100%;float:left;"/></a>
 
 
  
